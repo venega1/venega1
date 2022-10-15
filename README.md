@@ -4,7 +4,7 @@
 I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 
 ##### Current stack
--⚡️ Main Lenguage: 'CSS'
+-⚡️ Main Lenguage: 'CSS'.
 -🎉 Frontend: 'HTML5', 'CSS3'
 -Layout Design: 'Figma'
 -📦️ Version code control: 'Git & Github'
