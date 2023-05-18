@@ -6,10 +6,10 @@ I'm studying web development at
 Curso Superior de Tecnologia (CST) - Análise e Desenvolvimento de Sistemas 
 
 
-[Rocketseat](https://www.rocketseat.com.br/).
+[Rocketseat - Explorer](https://www.rocketseat.com.br/).
 
 ##### Current stack
-- ⚡️ Main Lenguage: 'CSS'
+- ⚡️ Main Lenguage: 'C'
 - 🎉 Frontend: 'HTML5', 'CSS3'
 - 🦄 Layout Design: 'Figma'
 - 📦️ Version code control: 'Git & Github'
